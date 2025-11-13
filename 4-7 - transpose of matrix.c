@@ -15,11 +15,12 @@ void main() {
             transpose[i][j]=arr[j][i];
         }
     }
-    printf("\nThe transpose of matrix is:\n")
+    printf("\nThe transpose of matrix is:\n");
     for(int i=0;i<4;i++){
         for(int j=0;j<4;j++){
             printf("%d    ",transpose[i][j]);
         }
         printf("\n");
     }
+
 }
