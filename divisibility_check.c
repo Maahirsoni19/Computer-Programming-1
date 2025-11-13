@@ -8,6 +8,7 @@ void main(){
         printf("The number is divisible by 7");
     }
     else{
-        printf("The number is not divisible by 7");.........................
+        printf("The number is not divisible by 7");
     }
 }
+
